@@ -1444,5 +1444,50 @@
       <itunes:duration>00:02:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Meal Train - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>The Meal Train - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Meal%20Train%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="1901539" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Meal Train - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 17:53:07 -0000</pubDate>
+      <itunes:duration>00:01:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>My TAT Story - R. Shlomo Landau - TorahAnytime.com</title>
+      <description>My TAT Story - R. Shlomo Landau - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/My%20TAT%20Story%20-%20R.%20Shlomo%20Landau%20-%20TorahAnytime.com.mp3" length="3898312" type="audio/mpeg"/>
+      <guid isPermaLink="false">My TAT Story - R. Shlomo Landau - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 17:53:24 -0000</pubDate>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Coin - R. Shraga Kallus - TorahAnytime.com</title>
+      <description>The Coin - R. Shraga Kallus - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Coin%20-%20R.%20Shraga%20Kallus%20-%20TorahAnytime.com.mp3" length="5403960" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Coin - R. Shraga Kallus - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 17:53:47 -0000</pubDate>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Line You Won’t Cross - R. Ari Neuwirth - TorahAnytime.com</title>
+      <description>The Line You Won’t Cross - R. Ari Neuwirth - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Line%20You%20Won%E2%80%99t%20Cross%20-%20R.%20Ari%20Neuwirth%20-%20TorahAnytime.com.mp3" length="3762031" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Line You Won’t Cross - R. Ari Neuwirth - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 17:54:19 -0000</pubDate>
+      <itunes:duration>00:03:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Greatest Thing for Another Yid - R. Yitzchak Oelbaum - TorahAnytime.com</title>
+      <description>Greatest Thing for Another Yid - R. Yitzchak Oelbaum - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Greatest%20Thing%20for%20Another%20Yid%20-%20R.%20Yitzchak%20Oelbaum%20-%20TorahAnytime.com.mp3" length="1463815" type="audio/mpeg"/>
+      <guid isPermaLink="false">Greatest Thing for Another Yid - R. Yitzchak Oelbaum - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 17:54:45 -0000</pubDate>
+      <itunes:duration>00:01:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
