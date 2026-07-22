@@ -1489,5 +1489,32 @@
       <itunes:duration>00:01:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Masked - R. Binyomin Pruzansky - TorahAnytime.com</title>
+      <description>Masked - R. Binyomin Pruzansky - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Masked%20-%20R.%20Binyomin%20Pruzansky%20-%20TorahAnytime.com.mp3" length="2244037" type="audio/mpeg"/>
+      <guid isPermaLink="false">Masked - R. Binyomin Pruzansky - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 09:16:26 -0000</pubDate>
+      <itunes:duration>00:02:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chasing Luxuries - R. Elazar Meisels - TorahAnytime.com</title>
+      <description>Chasing Luxuries - R. Elazar Meisels - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Chasing%20Luxuries%20-%20R.%20Elazar%20Meisels%20-%20TorahAnytime.com.mp3" length="3088471" type="audio/mpeg"/>
+      <guid isPermaLink="false">Chasing Luxuries - R. Elazar Meisels - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 09:16:33 -0000</pubDate>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Baal Shem Tov &amp; The Whiskey - R. Don Jarashow - TorahAnytime.com</title>
+      <description>Baal Shem Tov &amp; The Whiskey - R. Don Jarashow - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Baal%20Shem%20Tov%20%26%20The%20Whiskey%20-%20R.%20Don%20Jarashow%20-%20TorahAnytime.com.mp3" length="3245170" type="audio/mpeg"/>
+      <guid isPermaLink="false">Baal Shem Tov &amp; The Whiskey - R. Don Jarashow - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 09:16:41 -0000</pubDate>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
