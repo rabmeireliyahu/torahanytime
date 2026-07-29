@@ -1543,5 +1543,23 @@
       <itunes:duration>00:03:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Love or Lust？ - R. Tomer Zino - TorahAnytime.com</title>
+      <description>Love or Lust？ - R. Tomer Zino - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Love%20or%20Lust%EF%BC%9F%20-%20R.%20Tomer%20Zino%20-%20TorahAnytime.com.mp3" length="2742189" type="audio/mpeg"/>
+      <guid isPermaLink="false">Love or Lust？ - R. Tomer Zino - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 12:30:58 -0000</pubDate>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Love or Lust？ - R. Tomer Zino - TorahAnytime.com.temp</title>
+      <description>Love or Lust？ - R. Tomer Zino - TorahAnytime.com.temp</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Love%20or%20Lust%EF%BC%9F%20-%20R.%20Tomer%20Zino%20-%20TorahAnytime.com.temp.mp3" length="2745922" type="audio/mpeg"/>
+      <guid isPermaLink="false">Love or Lust？ - R. Tomer Zino - TorahAnytime.com.temp.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 12:30:58 -0000</pubDate>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
