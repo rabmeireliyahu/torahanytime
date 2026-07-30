@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>TorahAnytime</title>
-    <description>Welcome to TorahAnytime - Your 24/7 Source for Torah Inspiration! Website: https://www.torahanytime.com | App: https://www.torahanytime.com/app | Daily Dose: https://dose.torahanytime.com</description>
+    <description>Daily Torah inspiration in English from leading rabbis worldwide. Short shiurim on emunah, parsha, halacha, mussar and practical Jewish living - a few minutes a day to grow - Otzar HaTorah.</description>
+    <itunes:summary>Daily Torah inspiration in English from leading rabbis worldwide. Short shiurim on emunah, parsha, halacha, mussar and practical Jewish living - a few minutes a day to grow - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/torahanytime</link>
     <language>en</language>
     <itunes:author>TorahAnytime</itunes:author>
