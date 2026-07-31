@@ -3,7 +3,6 @@
   <channel>
     <title>TorahAnytime</title>
     <description>Daily Torah inspiration in English from leading rabbis worldwide. Short shiurim on emunah, parsha, halacha, mussar and practical Jewish living - a few minutes a day to grow - Otzar HaTorah.</description>
-    <itunes:summary>Daily Torah inspiration in English from leading rabbis worldwide. Short shiurim on emunah, parsha, halacha, mussar and practical Jewish living - a few minutes a day to grow - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/torahanytime</link>
     <language>en</language>
     <itunes:author>TorahAnytime</itunes:author>
@@ -1560,6 +1559,42 @@
       <guid isPermaLink="false">Never Doubt Hashem - R. Elazar Meisels - TorahAnytime.com.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 20:21:29 -0000</pubDate>
       <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>First Zivug - R. Tomer Zino - TorahAnytime.com</title>
+      <description>First Zivug - R. Tomer Zino - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/First%20Zivug%20-%20R.%20Tomer%20Zino%20-%20TorahAnytime.com.mp3" length="1886908" type="audio/mpeg"/>
+      <guid isPermaLink="false">First Zivug - R. Tomer Zino - TorahAnytime.com.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 10:01:49 -0000</pubDate>
+      <itunes:duration>00:01:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Perfect Matchmaker - R. Joey Haber - TorahAnytime.com</title>
+      <description>The Perfect Matchmaker - R. Joey Haber - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Perfect%20Matchmaker%20-%20R.%20Joey%20Haber%20-%20TorahAnytime.com.mp3" length="1799005" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Perfect Matchmaker - R. Joey Haber - TorahAnytime.com.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 10:02:06 -0000</pubDate>
+      <itunes:duration>00:01:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shabbos Song - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>Shabbos Song - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Shabbos%20Song%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="5354461" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shabbos Song - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 10:02:19 -0000</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why Avoid Lashon Hara - R. Yaakov Rahimi - TorahAnytime.com</title>
+      <description>Why Avoid Lashon Hara - R. Yaakov Rahimi - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Why%20Avoid%20Lashon%20Hara%20-%20R.%20Yaakov%20Rahimi%20-%20TorahAnytime.com.mp3" length="3519331" type="audio/mpeg"/>
+      <guid isPermaLink="false">Why Avoid Lashon Hara - R. Yaakov Rahimi - TorahAnytime.com.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 10:02:51 -0000</pubDate>
+      <itunes:duration>00:03:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
