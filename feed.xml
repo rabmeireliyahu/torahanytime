@@ -2065,5 +2065,14 @@
       <itunes:duration>00:05:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Consistent Prayers - R. Yaakov Rahimi - TorahAnytime.com</title>
+      <description>Consistent Prayers - R. Yaakov Rahimi - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Consistent%20Prayers%20-%20R.%20Yaakov%20Rahimi%20-%20TorahAnytime.com.mp3" length="1206597" type="audio/mpeg"/>
+      <guid isPermaLink="false">Consistent Prayers - R. Yaakov Rahimi - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 05:35:02 -0000</pubDate>
+      <itunes:duration>00:02:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
