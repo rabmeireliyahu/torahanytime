@@ -2083,5 +2083,14 @@
       <itunes:duration>00:04:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Don’t Let The Moment Pass - R. Yissocher Frand - TorahAnytime.com</title>
+      <description>Don’t Let The Moment Pass - R. Yissocher Frand - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Don%E2%80%99t%20Let%20The%20Moment%20Pass%20-%20R.%20Yissocher%20Frand%20-%20TorahAnytime.com.mp3" length="1287621" type="audio/mpeg"/>
+      <guid isPermaLink="false">Don’t Let The Moment Pass - R. Yissocher Frand - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 05:36:15 -0000</pubDate>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
