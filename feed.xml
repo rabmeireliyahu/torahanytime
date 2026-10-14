@@ -2092,5 +2092,14 @@
       <itunes:duration>00:02:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Rainbow： Bend Together or Break Apart - R. Avrohom Walkin - TorahAnytime.com</title>
+      <description>The Rainbow： Bend Together or Break Apart - R. Avrohom Walkin - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Rainbow%EF%BC%9A%20Bend%20Together%20or%20Break%20Apart%20-%20R.%20Avrohom%20Walkin%20-%20TorahAnytime.com.mp3" length="1951725" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Rainbow： Bend Together or Break Apart - R. Avrohom Walkin - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 05:36:49 -0000</pubDate>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
