@@ -2110,5 +2110,14 @@
       <itunes:duration>00:02:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Maintain This Standard - R. Joey Haber - TorahAnytime.com</title>
+      <description>Maintain This Standard - R. Joey Haber - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Maintain%20This%20Standard%20-%20R.%20Joey%20Haber%20-%20TorahAnytime.com.mp3" length="1198461" type="audio/mpeg"/>
+      <guid isPermaLink="false">Maintain This Standard - R. Joey Haber - TorahAnytime.com.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 13:30:37 -0000</pubDate>
+      <itunes:duration>00:01:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
