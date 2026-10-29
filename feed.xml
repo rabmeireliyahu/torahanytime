@@ -2128,5 +2128,14 @@
       <itunes:duration>00:02:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Positive Energy - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>Positive Energy - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Positive%20Energy%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="2719461" type="audio/mpeg"/>
+      <guid isPermaLink="false">Positive Energy - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 07:17:49 -0000</pubDate>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
