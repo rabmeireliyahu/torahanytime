@@ -2164,5 +2164,14 @@
       <itunes:duration>00:03:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Power of Words We Withhold - R. Ari Neuwirth - TorahAnytime.com</title>
+      <description>Power of Words We Withhold - R. Ari Neuwirth - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Power%20of%20Words%20We%20Withhold%20-%20R.%20Ari%20Neuwirth%20-%20TorahAnytime.com.mp3" length="1762797" type="audio/mpeg"/>
+      <guid isPermaLink="false">Power of Words We Withhold - R. Ari Neuwirth - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 16:33:07 -0000</pubDate>
+      <itunes:duration>00:03:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
