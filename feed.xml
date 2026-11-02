@@ -2147,12 +2147,21 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Infinite Reward - R. Yossi Mizrachi - TorahAnytime.com</title>
-      <description>Infinite Reward - R. Yossi Mizrachi - TorahAnytime.com</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Infinite%20Reward%20-%20R.%20Yossi%20Mizrachi%20-%20TorahAnytime.com.mp3" length="4018749" type="audio/mpeg"/>
-      <guid isPermaLink="false">Infinite Reward - R. Yossi Mizrachi - TorahAnytime.com.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 16:32:14 -0000</pubDate>
-      <itunes:duration>00:05:01</itunes:duration>
+      <title>Small Things - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>Small Things - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Small%20Things%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="2789421" type="audio/mpeg"/>
+      <guid isPermaLink="false">Small Things - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 16:31:21 -0000</pubDate>
+      <itunes:duration>00:03:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>What If You Almost Missed Your Purpose？ - R. Don Jarashow - TorahAnytime.com</title>
+      <description>What If You Almost Missed Your Purpose？ - R. Don Jarashow - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/What%20If%20You%20Almost%20Missed%20Your%20Purpose%EF%BC%9F%20-%20R.%20Don%20Jarashow%20-%20TorahAnytime.com.mp3" length="2407677" type="audio/mpeg"/>
+      <guid isPermaLink="false">What If You Almost Missed Your Purpose？ - R. Don Jarashow - TorahAnytime.com.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 16:32:35 -0000</pubDate>
+      <itunes:duration>00:03:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
