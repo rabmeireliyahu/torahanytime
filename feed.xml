@@ -2173,5 +2173,14 @@
       <itunes:duration>00:03:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>What Do You Give Up？ - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>What Do You Give Up？ - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/What%20Do%20You%20Give%20Up%EF%BC%9F%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="5618757" type="audio/mpeg"/>
+      <guid isPermaLink="false">What Do You Give Up？ - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:23:55 -0000</pubDate>
+      <itunes:duration>00:06:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
