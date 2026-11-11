@@ -2191,5 +2191,14 @@
       <itunes:duration>00:05:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>West Point - R. Hillel Eisenberg - TorahAnytime.com</title>
+      <description>West Point - R. Hillel Eisenberg - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/West%20Point%20-%20R.%20Hillel%20Eisenberg%20-%20TorahAnytime.com.mp3" length="2537709" type="audio/mpeg"/>
+      <guid isPermaLink="false">West Point - R. Hillel Eisenberg - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:26:07 -0000</pubDate>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
