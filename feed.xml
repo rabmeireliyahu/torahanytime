@@ -2200,5 +2200,14 @@
       <itunes:duration>00:03:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Magic Seed - R. Moshe Dov Heber - TorahAnytime.com</title>
+      <description>The Magic Seed - R. Moshe Dov Heber - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Magic%20Seed%20-%20R.%20Moshe%20Dov%20Heber%20-%20TorahAnytime.com.mp3" length="2839965" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Magic Seed - R. Moshe Dov Heber - TorahAnytime.com.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 18:42:40 -0000</pubDate>
+      <itunes:duration>00:06:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
