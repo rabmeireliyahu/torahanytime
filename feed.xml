@@ -2218,5 +2218,14 @@
       <itunes:duration>00:01:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Story of McDonalds - R. Yehuda Zev Klein - TorahAnytime.com</title>
+      <description>The Story of McDonalds - R. Yehuda Zev Klein - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/The%20Story%20of%20McDonalds%20-%20R.%20Yehuda%20Zev%20Klein%20-%20TorahAnytime.com.mp3" length="1492749" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Story of McDonalds - R. Yehuda Zev Klein - TorahAnytime.com.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 18:22:59 -0000</pubDate>
+      <itunes:duration>00:02:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
