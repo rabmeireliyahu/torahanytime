@@ -2209,5 +2209,14 @@
       <itunes:duration>00:06:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Don't Wait To Change! - R. Hillel Eisenberg - TorahAnytime.com</title>
+      <description>Don't Wait To Change! - R. Hillel Eisenberg - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Don%27t%20Wait%20To%20Change%21%20-%20R.%20Hillel%20Eisenberg%20-%20TorahAnytime.com.mp3" length="1574589" type="audio/mpeg"/>
+      <guid isPermaLink="false">Don't Wait To Change! - R. Hillel Eisenberg - TorahAnytime.com.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 18:22:05 -0000</pubDate>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
