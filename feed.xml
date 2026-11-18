@@ -2245,5 +2245,14 @@
       <itunes:duration>00:02:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Agudah - R. Hillel Eisenberg - TorahAnytime.com</title>
+      <description>Agudah - R. Hillel Eisenberg - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Agudah%20-%20R.%20Hillel%20Eisenberg%20-%20TorahAnytime.com.mp3" length="1130577" type="audio/mpeg"/>
+      <guid isPermaLink="false">Agudah - R. Hillel Eisenberg - TorahAnytime.com.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 18:47:28 -0000</pubDate>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
