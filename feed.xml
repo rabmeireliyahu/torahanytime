@@ -2254,5 +2254,14 @@
       <itunes:duration>00:02:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Good Middot - R. Meir Simcha Sperling - TorahAnytime.com</title>
+      <description>Good Middot - R. Meir Simcha Sperling - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Good%20Middot%20-%20R.%20Meir%20Simcha%20Sperling%20-%20TorahAnytime.com.mp3" length="1606248" type="audio/mpeg"/>
+      <guid isPermaLink="false">Good Middot - R. Meir Simcha Sperling - TorahAnytime.com.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 18:47:59 -0000</pubDate>
+      <itunes:duration>00:02:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
