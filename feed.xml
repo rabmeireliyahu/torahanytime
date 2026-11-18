@@ -2227,5 +2227,14 @@
       <itunes:duration>00:02:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Don’t Need to be Perfect to be a Parent - R. Efraim Twerski - TorahAnytime.com</title>
+      <description>Don’t Need to be Perfect to be a Parent - R. Efraim Twerski - TorahAnytime.com</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/torahanytime-shiurim/Don%E2%80%99t%20Need%20to%20be%20Perfect%20to%20be%20a%20Parent%20-%20R.%20Efraim%20Twerski%20-%20TorahAnytime.com.mp3" length="3973701" type="audio/mpeg"/>
+      <guid isPermaLink="false">Don’t Need to be Perfect to be a Parent - R. Efraim Twerski - TorahAnytime.com.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 18:46:10 -0000</pubDate>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
